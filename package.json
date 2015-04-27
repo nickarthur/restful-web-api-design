@@ -1,0 +1,31 @@
+{
+  "name": "restful-web-api-design",
+  "version": "1.0.0",
+  "description": "Restful Web API Design with Node.js PacktPub book examples",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "chai-as-promised": "^5.0.0",
+    "mocha": "^2.2.4",
+    "nock": "^1.7.0",
+    "nodeunit": "^0.9.1",
+    "sinon": "^1.14.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickarthur/restful-web-api-design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickarthur/restful-web-api-design/issues"
+  },
+  "homepage": "https://github.com/nickarthur/restful-web-api-design"
+}
